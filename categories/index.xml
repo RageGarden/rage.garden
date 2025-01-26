@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Rage.Garden</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://rage.garden/categories/</link>
     <description>Recent content in Categories on Rage.Garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Chief Horticulturalist</copyright>
-    <lastBuildDate>Sat, 25 Jan 2025 15:48:10 -0700</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jan 2025 10:08:52 -0700</lastBuildDate><atom:link href="https://rage.garden/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Test</title>
-      <link>http://localhost:1313/categories/test/</link>
-      <pubDate>Sat, 25 Jan 2025 15:48:10 -0700</pubDate>
+      <link>https://rage.garden/categories/test/</link>
+      <pubDate>Sun, 26 Jan 2025 10:08:52 -0700</pubDate>
       
-      <guid>http://localhost:1313/categories/test/</guid>
+      <guid>https://rage.garden/categories/test/</guid>
       <description></description>
       
     </item>
