@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leadership on rage.garden</title>
-    <link>http://localhost:1313/categories/leadership/</link>
+    <link>https://rage.garden/categories/leadership/</link>
     <description>Recent content in Leadership on rage.garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/leadership/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rage.garden/categories/leadership/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>10 Reasons Your AI Transformation Will Fail</title>
-      <link>http://localhost:1313/posts/2026/04/24/ai-transformation-failure/</link>
+      <link>https://rage.garden/posts/2026/04/24/ai-transformation-failure/</link>
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2026/04/24/ai-transformation-failure/</guid>
+      <guid>https://rage.garden/posts/2026/04/24/ai-transformation-failure/</guid>
       <description>I survived the dot-com era, where every business plan acquired a &amp;ldquo;.com&amp;rdquo; the way ships acquire barnacles: automatically, without anyone deciding it was a good idea. I have survived, and occasionally not survived, more re-orgs than I can count, which is either a badge of honor or a warning sign. I watched entire engineering organizations migrate to the cloud because AWS existed.&#xA;Each time, the pattern was the same. The press release drops, the board asks a question, a competitor makes an announcement, and the organization attempts to move.</description>
     </item>
   </channel>
