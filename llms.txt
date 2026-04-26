@@ -1,0 +1,31 @@
+# rage.garden
+
+> Cultivating poorly thought out ideas since 2025!
+
+A personal blog by Chief Horticulturist covering software engineering, engineering leadership, agile practice, and organisational culture. Written for practitioners — engineering leaders and senior individual contributors. Posts are opinionated, cite sources, and invite discussion rather than claiming authority.
+
+## Posts
+
+- [Hello, World](https://rage.garden/posts/2025/01/25/hello_world/): Introductory post explaining the name, intent, and format of the blog.
+- [The Overton Window and Organizational Change](https://rage.garden/posts/2025/02/15/the_overton_window/): Applying the Overton Window concept to organizational change — why skipping steps fails and how to move the window incrementally.
+- [So Many Frameworks, So Little Time](https://rage.garden/posts/2025/02/28/so_many_frameworks/): A critique of the certification-industrial complex around Scrum, SAFe, and related frameworks, and what actually works instead.
+- [Loosen Your Grip](https://rage.garden/posts/2025/03/15/loosen_your_grip/): The golf grip analogy for micromanagement — why tight control kills performance and how to practice letting go.
+- [The Human API](https://rage.garden/posts/2025/03/28/human_api/): Applying API design thinking to teams — making implicit contracts explicit to reduce coordination friction.
+- [Do We Still Need the Scrum Master?](https://rage.garden/posts/2025/04/10/no_more_scrum_master/): Questioning whether the Scrum Master role as commonly implemented serves its original purpose.
+- [The Standup Problem](https://rage.garden/posts/2025/05/01/the_standup_problem/): Why most daily standups are performance of coordination rather than coordination, and what to do about it.
+- [On Technical Debt](https://rage.garden/posts/2025/05/20/on_technical_debt/): Revisiting Ward Cunningham's original metaphor, what it means versus how it's used, and why the payback step always fails.
+- [Managers Who Code](https://rage.garden/posts/2025/06/05/managers_who_code/): The case for and against engineering managers staying technical, and what the role actually asks for.
+- [Estimation Is Lying With Extra Steps](https://rage.garden/posts/2025/06/25/estimation_is_lying/): Why software estimation produces false precision, what function it actually serves, and what honesty about uncertainty looks like.
+- [The Reorg Cycle](https://rage.garden/posts/2025/07/15/the_reorg_cycle/): Why organisational restructuring recurs every 18 months and why structure matters less than most reorg planning implies.
+- [Writing Is a Leadership Skill](https://rage.garden/posts/2025/08/10/writing_as_leadership/): The discipline writing imposes on thinking, why meetings tolerate ambiguity that documents cannot, and writing as institutional memory.
+- [The Senior Engineer Trap](https://rage.garden/posts/2025/09/01/senior_engineer_trap/): How senior engineers get stuck optimising for what got them promoted instead of what the role actually requires.
+- [Make Async the Default](https://rage.garden/posts/2025/10/15/async_first/): Why synchronous communication is overused, what async-first actually requires culturally, and when synchronous is the right choice.
+- [On Saying No](https://rage.garden/posts/2025/11/01/on_saying_no/): Why prioritisation fails by attrition rather than by choice, and what real strategic focus requires of leadership.
+- [Conway's Law Is Not a Suggestion](https://rage.garden/posts/2025/12/01/on_conways_law/): How organisational structure determines system architecture, the Inverse Conway Maneuver, and why architectural reviews miss the real diagnosis.
+
+## Navigation
+
+- [About](https://rage.garden/about/): About the author and the site.
+- [All posts](https://rage.garden/posts/): Full post archive.
+- [RSS Feed](https://rage.garden/feed.xml): Full-content RSS feed.
+- [Sitemap](https://rage.garden/sitemap.xml): Complete site index.

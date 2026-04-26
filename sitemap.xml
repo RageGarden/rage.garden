@@ -1,35 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
   <url>
-    <loc>https://rage.garden/about/</loc>
-    <lastmod>2025-02-15T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://rage.garden/posts/</loc>
-    <lastmod>2025-02-15T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://rage.garden/</loc>
-    <lastmod>2025-02-15T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://rage.garden/posts/2025/01/26/second_post/</loc>
-    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://rage.garden/posts/2025/01/25/hello_world/</loc>
-    <lastmod>2025-01-25T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2026-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2026/04/24/ai-transformation-failure/</loc>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ai/</loc>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/leadership/</loc>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/leadership/</loc>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/organizational-change/</loc>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/transformation/</loc>
+    <lastmod>2026-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
   </url>
 </urlset>
